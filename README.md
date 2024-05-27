@@ -1,4 +1,4 @@
 # Machine-learning-models
-Developing and finding the best machine learning models and deployment over streamlit
+Developing and finding the best machine learning models for churn prediction and deployment over streamlit
 # Problem Description
 An DTH provider is facing intense competition in the market, making customer retention challenging. The company aims to develop a churn prediction model to anticipate potential account churn and devise segmented offers to retain customers. Given that each account can encompass multiple customers, losing one account could result in the loss of several customers, amplifying the impact of churn on revenue. As part of this initiative, the company seeks actionable business recommendations for campaign strategies that effectively mitigate churn risk while ensuring profitability. The recommendations must strike a balance between offering incentives to retain customers and avoiding excessive financial loss, as scrutinized by the revenue assurance team.

@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 
-loaded_model = pickle.load(open('C:/Users/Sajiv/Documents/DSBA/Capstone Project/Main Project/Customer_Churn/DecisionTree.pkl', 'rb'))
+loaded_model = pickle.load(open('https://github.com/SajivGen/Churn-prediction-Classifier-ML-models/blob/main/Classification_models.ipynb/DecisionTree.pkl', 'rb'))
 
 
 def churn_prediction(input_data):

@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 
-loaded_model = pickle.load(open('DecisionTree.pkl','rb'))
+loaded_model = pickle.load(open('Randomforest.pkl','rb'))
 
 
 def churn_prediction(input_data):

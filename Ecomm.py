@@ -21,7 +21,7 @@ def churn_prediction(input_data):
     
 def main():
     
-    st.title('DTH Churn prediction')
+    st.title('ECom Churn prediction')
     Tenure = st.slider('Tenure',0,105)
     City_Tier = st.selectbox('City_Tier',(1,2,3))
     CC_Contacted_LY = st.slider('CC_Contacted_LY',0,250)
